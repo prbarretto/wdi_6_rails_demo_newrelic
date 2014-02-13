@@ -1,0 +1,1 @@
+Wdi6RailsDemoNewrelic::Application.config.secret_key_base='29325ea8d5a0c45f11ad885aa4b519901aba831859f3d16804d858453efaaa696060b935b2b091a57af4d33f4bb39c538eb98a4e8a1ee32e67aa0282c21d8206'
